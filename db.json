@@ -1,0 +1,42 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name": "manju",
+            "place": "banglore",
+            "email": "manju14m@gmail.com",
+            "age":"28"
+        },
+        {
+            "id":"2",
+            "name": "manju",
+            "place": "banglore",
+            "email": "manju14m@gmail.com",
+            "age":"28"
+        },
+        {
+            "id":"3",
+            "name": "manju",
+            "place": "banglore",
+            "email": "manju14m@gmail.com",
+            "age":"28"
+        }    
+    ],
+    "companies":[
+        {
+            "id": "1",
+            "name": "apple",
+            "description": "apple store"
+        },
+        {
+            "id": "2",
+            "name": "google",
+            "description": "search engine"
+        },
+        {
+            "id": "3",
+            "name": "microsoft",
+            "description": "windows product"
+        }
+    ]
+}
